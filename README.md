@@ -16,3 +16,7 @@ http://wordpress.org/extend/plugins/nextgen-gallery/
 1. Upload `tag-suggestions-for-nextgen-gallery` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
+
+== Changelog ==
+
+1.0.1 Fixed for working with nextgen 2.0
